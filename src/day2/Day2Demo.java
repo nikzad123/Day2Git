@@ -7,6 +7,8 @@ public class Day2Demo {
 	  System.out.println("Pushing code....");
 	  
 	  System.out.println("Pushing code 2nd time....");
+	  
+	  String firstName= "";
     	
     }
 }
